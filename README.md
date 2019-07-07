@@ -6,7 +6,7 @@
 <ol>
 <li><a href="http://modern.realhomes.io" rel="nofollow">http://modern.realhomes.io</a></li>
 <li><a href="http://modern.realhomes.io/news/" rel="nofollow">http://modern.realhomes.io/news/</a></li>
-<li><a href="http://modern.realhomes.io/contact/" rel="nofollow">http://modern.realhomes.io/contact/</a></li>
+
 <li><a href="http://modern.realhomes.io/property/home-in-merrick-way/" rel="nofollow">http://modern.realhomes.io/property/home-in-merrick-way</a></li>
 <li><a href="http://modern.realhomes.io/contact/" rel="nofollow">http://modern.realhomes.io/contact/</a></li>
 
